@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "653828107149",
+    "firebase_url": "https://solo-test-game-4b132-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "solo-test-game-4b132",
+    "storage_bucket": "solo-test-game-4b132.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653828107149:android:70bdcfbfe2f0175fe7ebc4",
+        "android_client_info": {
+          "package_name": "com.stokmatik.solotest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdSN3M_LjAgOs1yL04I-p42RfZJP_nMoo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
